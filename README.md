@@ -1,0 +1,2 @@
+# uplift-hillstrom
+Hillstromデータを使ったアップリフトモデリングの学習記録
